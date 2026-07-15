@@ -3,7 +3,7 @@
 Operational handoff only. `LEADS.md` and `OUTREACH_LOG.md` remain the source of truth.
 
 - Current phase: Build — complete (QA_REPORT.md verdict: PASS)
-- Last trusted commit: (set after first commit — see git log)
+- Last trusted commit: bede9f6 "Build DLK Locksmiths demo site: 3-page text-forward redesign"
 - Known untrusted state: none — BUILD_BRIEF.md facts/assets are sourced and QA_REPORT.md records pass/fail evidence for contrast, upscale, and manual checks at mobile/tablet/desktop.
 - Next exact action: Review phase — re-verify BUILD_BRIEF claims independently, then deploy (GitHub repo + Pages) per AGENTS.md step 6, then draft outreach per step 7.
 - Deploy URL: none yet — not deployed in this phase per instructions.
